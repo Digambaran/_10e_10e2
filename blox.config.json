@@ -1,9 +1,1 @@
-{
-  "type": "function",
-  "source": "git@github.com:Appblox/_ab_todo_listTodos.git",
-  "language": "nodejs",
-  "start": "node index.js",
-  "build": "npm run build",
-  "postPull": "npm i",
-  "name": "listTodos"
-}
+{"type":"function","source":{"https":"https://github.com/Digambaran/_10e_10e2","ssh":"git@github.com:Digambaran/_10e_10e2.git"},"language":"nodejs","start":"node index.js","build":"npm run build","postPull":"npm i","name":"10e2"}
